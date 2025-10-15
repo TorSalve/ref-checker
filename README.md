@@ -1,6 +1,6 @@
 # Academic Paper Reference Checker
 
-A powerful Python tool for extracting and verifying references from academic papers in PDF format. Supports both single PDF processing and batch folder processing with comprehensive validation using DOI lookup and Semantic Scholar title-based search.
+A Python tool for extracting and verifying references from academic papers in PDF format. Supports both single PDF processing and batch folder processing with comprehensive validation using DOI lookup and Semantic Scholar title-based search.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
